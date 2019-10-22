@@ -1,0 +1,82 @@
+{
+  "debug_ship_1": {
+    "speed": 1.000000,
+    "max_hp": 8.000000,
+    "collision_damage": 1.000000,
+    "explosion_force": 2.000000,
+    "enemy_sprite": "spr_debug_r",
+    "weapons": "enemy_tracking"
+  },
+  "enemy_small_unarmed": {
+    "speed": 1.200000,
+    "max_hp": 6.000000,
+    "collision_damage": 1.000000,
+    "explosion_force": 2.000000,
+    "enemy_sprite": "spr_enemy_ship_1",
+    "weapons": "noone"
+  },
+  "enemy_large_unarmed": {
+    "speed": 1.000000,
+    "max_hp": 12.000000,
+    "collision_damage": 2.000000,
+    "explosion_force": 2.000000,
+    "enemy_sprite": "spr_enemy_ship_2",
+    "weapons": "noone"
+  },
+  "enemy_special_unarmed": {
+    "speed": 1.300000,
+    "max_hp": 12.000000,
+    "collision_damage": 3.000000,
+    "explosion_force": 2.000000,
+    "enemy_sprite": "spr_enemy_ship_3",
+    "weapons": "noone"
+  },
+  "enemy_small_tracking": {
+    "speed": 1.200000,
+    "max_hp": 6.000000,
+    "collision_damage": 1.000000,
+    "explosion_force": 2.000000,
+    "enemy_sprite": "spr_enemy_ship_1",
+    "weapons": "enemy_tracking_1"
+  },
+  "enemy_large_tracking": {
+    "speed": 1.000000,
+    "max_hp": 12.000000,
+    "collision_damage": 2.000000,
+    "explosion_force": 2.000000,
+    "enemy_sprite": "spr_enemy_ship_2",
+    "weapons": "enemy_tracking_1"
+  },
+  "enemy_special_tracking": {
+    "speed": 1.300000,
+    "max_hp": 12.000000,
+    "collision_damage": 3.000000,
+    "explosion_force": 2.000000,
+    "enemy_sprite": "spr_enemy_ship_3",
+    "weapons": "enemy_tracking_1"
+  },
+  "enemy_small_spiral_1_cw": {
+    "speed": 1.200000,
+    "max_hp": 6.000000,
+    "collision_damage": 1.000000,
+    "explosion_force": 2.000000,
+    "enemy_sprite": "spr_enemy_ship_1",
+    "weapons": "enemy_spiral_1_cw"
+  },
+  "enemy_large_spiral_1_cw": {
+    "speed": 1.000000,
+    "max_hp": 12.000000,
+    "collision_damage": 2.000000,
+    "explosion_force": 2.000000,
+    "enemy_sprite": "spr_enemy_ship_2",
+    "weapons": "enemy_spiral_1_cw"
+  },
+  "enemy_special_spiral_1_cw": {
+    "speed": 1.300000,
+    "max_hp": 12.000000,
+    "collision_damage": 3.000000,
+    "explosion_force": 2.000000,
+    "enemy_sprite": "spr_enemy_ship_3",
+    "weapons": "enemy_spiral_1_cw"
+  }
+}

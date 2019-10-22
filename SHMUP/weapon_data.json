@@ -1,0 +1,65 @@
+{
+  "debug_weapon_1": {
+    "rotation_speed": 6.000000,
+    "tracking_target": "noone",
+    "is_manual": false,
+    "fire_rate": 60.000000,
+    "reload_time": 0.000000,
+    "bullets_per_reload": 1.000000,
+    "bullet_type": "debug_bullet_1"
+  },
+  "player_light": {
+    "rotation_speed": 0.000000,
+    "tracking_target": "noone",
+    "is_manual": false,
+    "fire_rate": 12.000000,
+    "reload_time": 0.000000,
+    "bullets_per_reload": 1.000000,
+    "bullet_type": "player_light"
+  },
+  "player_heavy": {
+    "rotation_speed": 0.000000,
+    "tracking_target": "noone",
+    "is_manual": false,
+    "fire_rate": 14.000000,
+    "reload_time": 0.000000,
+    "bullets_per_reload": 1.000000,
+    "bullet_type": "player_heavy"
+  },
+  "player_spread": {
+    "rotation_speed": 0.000000,
+    "tracking_target": "noone",
+    "is_manual": false,
+    "fire_rate": 10.000000,
+    "reload_time": 0.000000,
+    "bullets_per_reload": 1.000000,
+    "bullet_type": "player_long"
+  },
+  "player_seeking": {
+    "rotation_speed": 0.000000,
+    "tracking_target": "noone",
+    "is_manual": false,
+    "fire_rate": 30.000000,
+    "reload_time": 0.000000,
+    "bullets_per_reload": 1.000000,
+    "bullet_type": "player_seeking"
+  },
+  "enemy_tracking_1": {
+    "rotation_speed": 0.000000,
+    "tracking_target": "obj_player_ship",
+    "is_manual": false,
+    "fire_rate": 30.000000,
+    "reload_time": 180.000000,
+    "bullets_per_reload": 3.000000,
+    "bullet_type": "enemy_light"
+  },
+  "enemy_spiral_1_cw": {
+    "rotation_speed": -8.000000,
+    "tracking_target": "noone",
+    "is_manual": false,
+    "fire_rate": 2.000000,
+    "reload_time": 120.000000,
+    "bullets_per_reload": 40.000000,
+    "bullet_type": "enemy_heavy"
+  }
+}

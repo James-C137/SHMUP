@@ -1,0 +1,362 @@
+{
+  "level_debug": {
+    "initial_wave_delay": 2.000000,
+    "waves": [
+      {
+        "direction": 270.000000,
+        "start_time": 0.000000,
+        "start_delay": 0.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 1.000000,
+        "enemy_type": "enemy_small_spiral_1_cw",
+        "row": 0.000000,
+        "column": 1.000000
+      },
+      {
+        "direction": 270.000000,
+        "start_time": 6.000000,
+        "start_delay": 0.000000,
+        "spawn_gap": 60.000000,
+        "num_enemies": 6.000000,
+        "enemy_type": "enemy_large_tracking",
+        "row": 0.000000,
+        "column": -1.000000
+      },
+      {
+        "direction": 270.000000,
+        "start_time": 12.000000,
+        "start_delay": 0.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 6.000000,
+        "enemy_type": "enemy_special_spiral_1_cw",
+        "row": 0.000000,
+        "column": 1.000000
+      }
+    ]
+  },
+  "level_1": {
+    "initial_wave_delay": 4.000000,
+    "waves": [
+      {
+        "direction": 270.000000,
+        "start_time": 0.000000,
+        "start_delay": 0.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 6.000000,
+        "enemy_type": "enemy_small_unarmed",
+        "row": 0.000000,
+        "column": 1.000000
+      },
+      {
+        "direction": 270.000000,
+        "start_time": 6.000000,
+        "start_delay": 0.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 6.000000,
+        "enemy_type": "enemy_small_unarmed",
+        "row": 0.000000,
+        "column": -1.000000
+      },
+      {
+        "direction": 270.000000,
+        "start_time": 12.000000,
+        "start_delay": 0.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 6.000000,
+        "enemy_type": "enemy_small_unarmed",
+        "row": 0.000000,
+        "column": 0.000000
+      }
+    ]
+  },
+  "level_2": {
+    "initial_wave_delay": 4.000000,
+    "waves": [
+      {
+        "direction": 270.000000,
+        "start_time": 0.000000,
+        "start_delay": 0.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 4.000000,
+        "enemy_type": "enemy_small_tracking",
+        "row": 0.000000,
+        "column": 1.000000
+      },
+      {
+        "direction": 270.000000,
+        "start_time": 6.000000,
+        "start_delay": 0.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 4.000000,
+        "enemy_type": "enemy_small_tracking",
+        "row": 0.000000,
+        "column": -1.000000
+      },
+      {
+        "direction": 205.000000,
+        "start_time": 12.000000,
+        "start_delay": 0.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 6.000000,
+        "enemy_type": "enemy_small_unarmed",
+        "row": 4.000000,
+        "column": 5.000000
+      },
+      {
+        "direction": 335.000000,
+        "start_time": 14.000000,
+        "start_delay": 0.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 6.000000,
+        "enemy_type": "enemy_small_unarmed",
+        "row": 4.000000,
+        "column": -5.000000
+      },
+      {
+        "direction": 270.000000,
+        "start_time": 14.000000,
+        "start_delay": 0.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 3.000000,
+        "enemy_type": "enemy_large_tracking",
+        "row": 0.000000,
+        "column": 0.000000
+      },
+      {
+        "direction": 270.000000,
+        "start_time": 20.000000,
+        "start_delay": 0.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 3.000000,
+        "enemy_type": "enemy_small_unarmed",
+        "row": 0.000000,
+        "column": 1.000000
+      },
+      {
+        "direction": 270.000000,
+        "start_time": 20.000000,
+        "start_delay": 15.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 3.000000,
+        "enemy_type": "enemy_small_unarmed",
+        "row": 0.000000,
+        "column": -1.000000
+      },
+      {
+        "direction": 270.000000,
+        "start_time": 26.000000,
+        "start_delay": 0.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 4.000000,
+        "enemy_type": "enemy_small_tracking",
+        "row": 0.000000,
+        "column": 1.000000
+      },
+      {
+        "direction": 270.000000,
+        "start_time": 26.000000,
+        "start_delay": 0.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 4.000000,
+        "enemy_type": "enemy_small_tracking",
+        "row": 0.000000,
+        "column": -1.000000
+      },
+      {
+        "direction": 270.000000,
+        "start_time": 28.000000,
+        "start_delay": 0.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 1.000000,
+        "enemy_type": "enemy_large_spiral_1_cw",
+        "row": 0.000000,
+        "column": 1.000000
+      },
+      {
+        "direction": 270.000000,
+        "start_time": 28.000000,
+        "start_delay": 0.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 1.000000,
+        "enemy_type": "enemy_large_spiral_1_cw",
+        "row": 0.000000,
+        "column": -1.000000
+      }
+    ]
+  },
+  "level_3": {
+    "initial_wave_delay": 4.000000,
+    "waves": [
+      {
+        "direction": 270.000000,
+        "start_time": 0.000000,
+        "start_delay": 0.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 6.000000,
+        "enemy_type": "enemy_small_unarmed",
+        "row": 0.000000,
+        "column": 0.000000
+      },
+      {
+        "direction": 270.000000,
+        "start_time": 0.000000,
+        "start_delay": 30.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 6.000000,
+        "enemy_type": "enemy_small_tracking",
+        "row": 0.000000,
+        "column": -1.000000
+      },
+      {
+        "direction": 270.000000,
+        "start_time": 0.000000,
+        "start_delay": 30.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 6.000000,
+        "enemy_type": "enemy_small_tracking",
+        "row": 0.000000,
+        "column": 1.000000
+      },
+      {
+        "direction": 260.000000,
+        "start_time": 6.000000,
+        "start_delay": 0.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 6.000000,
+        "enemy_type": "enemy_small_unarmed",
+        "row": 0.000000,
+        "column": -1.000000
+      },
+      {
+        "direction": 280.000000,
+        "start_time": 6.000000,
+        "start_delay": 0.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 6.000000,
+        "enemy_type": "enemy_small_unarmed",
+        "row": 0.000000,
+        "column": 1.000000
+      },
+      {
+        "direction": 270.000000,
+        "start_time": 6.000000,
+        "start_delay": 0.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 6.000000,
+        "enemy_type": "enemy_special_tracking",
+        "row": 0.000000,
+        "column": 0.000000
+      },
+      {
+        "direction": 335.000000,
+        "start_time": 12.000000,
+        "start_delay": 0.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 6.000000,
+        "enemy_type": "enemy_small_tracking",
+        "row": 4.000000,
+        "column": -5.000000
+      },
+      {
+        "direction": 335.000000,
+        "start_time": 12.000000,
+        "start_delay": 0.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 6.000000,
+        "enemy_type": "enemy_small_tracking",
+        "row": 7.000000,
+        "column": -5.000000
+      },
+      {
+        "direction": 205.000000,
+        "start_time": 16.000000,
+        "start_delay": 0.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 6.000000,
+        "enemy_type": "enemy_small_tracking",
+        "row": 4.000000,
+        "column": 5.000000
+      },
+      {
+        "direction": 205.000000,
+        "start_time": 16.000000,
+        "start_delay": 0.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 6.000000,
+        "enemy_type": "enemy_small_tracking",
+        "row": 7.000000,
+        "column": 5.000000
+      },
+      {
+        "direction": 270.000000,
+        "start_time": 28.000000,
+        "start_delay": 0.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 4.000000,
+        "enemy_type": "enemy_large_unarmed",
+        "row": 1.000000,
+        "column": 0.000000
+      },
+      {
+        "direction": 270.000000,
+        "start_time": 28.000000,
+        "start_delay": 15.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 1.000000,
+        "enemy_type": "enemy_large_spiral_1_cw",
+        "row": 1.000000,
+        "column": -1.000000
+      },
+      {
+        "direction": 270.000000,
+        "start_time": 28.000000,
+        "start_delay": 15.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 1.000000,
+        "enemy_type": "enemy_large_spiral_1_cw",
+        "row": 1.000000,
+        "column": 1.000000
+      },
+      {
+        "direction": 270.000000,
+        "start_time": 28.000000,
+        "start_delay": 30.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 1.000000,
+        "enemy_type": "enemy_large_spiral_1_cw",
+        "row": 1.000000,
+        "column": -2.000000
+      },
+      {
+        "direction": 270.000000,
+        "start_time": 28.000000,
+        "start_delay": 30.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 1.000000,
+        "enemy_type": "enemy_large_spiral_1_cw",
+        "row": 1.000000,
+        "column": 2.000000
+      },
+      {
+        "direction": 290.000000,
+        "start_time": 36.000000,
+        "start_delay": 30.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 5.000000,
+        "enemy_type": "enemy_special_spiral_1_cw",
+        "row": 1.000000,
+        "column": -2.000000
+      },
+      {
+        "direction": 250.000000,
+        "start_time": 36.000000,
+        "start_delay": 30.000000,
+        "spawn_gap": 30.000000,
+        "num_enemies": 5.000000,
+        "enemy_type": "enemy_special_spiral_1_cw",
+        "row": 1.000000,
+        "column": 2.000000
+      }
+    ]
+  }
+}

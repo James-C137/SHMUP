@@ -1,0 +1,72 @@
+{
+  "debug_bullet_1": {
+    "speed": 1.000000,
+    "collider_tag": "debug_bullet",
+    "collider_target_tag": "enemy_ship",
+    "collision_damage": 1.000000,
+    "explode_on_despawn": true,
+    "explosion_force": 1.000000,
+    "bullet_sprite": "spr_debug_r",
+    "seeking_target": "noone"
+  },
+  "player_light": {
+    "speed": 6.000000,
+    "collider_tag": "player_bullet",
+    "collider_target_tag": "enemy_ship",
+    "collision_damage": 3.000000,
+    "explode_on_despawn": true,
+    "explosion_force": 1.000000,
+    "bullet_sprite": "spr_bullet_light_blue",
+    "seeking_target": "noone"
+  },
+  "player_heavy": {
+    "speed": 5.00000,
+    "collider_tag": "player_bullet",
+    "collider_target_tag": "enemy_ship",
+    "collision_damage": 4.000000,
+    "explode_on_despawn": true,
+    "explosion_force": 1.000000,
+    "bullet_sprite": "spr_bullet_heavy_blue",
+    "seeking_target": "noone"
+  },
+  "player_long": {
+    "speed": 7.00000,
+    "collider_tag": "player_bullet",
+    "collider_target_tag": "enemy_ship",
+    "collision_damage": 2.000000,
+    "explode_on_despawn": true,
+    "explosion_force": 1.000000,
+    "bullet_sprite": "spr_bullet_long_blue",
+    "seeking_target": "noone"
+  },
+  "player_seeking": {
+    "speed": 7.00000,
+    "collider_tag": "player_bullet",
+    "collider_target_tag": "enemy_ship",
+    "collision_damage": 1.000000,
+    "explode_on_despawn": true,
+    "explosion_force": 1.000000,
+    "bullet_sprite": "spr_bullet_long_blue",
+    "seeking_target": "obj_enemy_ship"
+  },
+  "enemy_light": {
+    "speed": 1.250000,
+    "collider_tag": "enemy_bullet",
+    "collider_target_tag": "player_ship",
+    "collision_damage": 1.000000,
+    "explode_on_despawn": true,
+    "explosion_force": 1.000000,
+    "bullet_sprite": "spr_bullet_light_red",
+    "seeking_target": "noone"
+  },
+  "enemy_heavy": {
+    "speed": 1.000000,
+    "collider_tag": "enemy_bullet",
+    "collider_target_tag": "player_ship",
+    "collision_damage": 2.000000,
+    "explode_on_despawn": true,
+    "explosion_force": 1.000000,
+    "bullet_sprite": "spr_bullet_heavy_red",
+    "seeking_target": "noone"
+  }
+}
